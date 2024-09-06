@@ -58,8 +58,7 @@ Tag:obsidian、wallpaper、background、壁纸、背景
    ## 其他
    
    1. 附带了一个小壁纸包，它们来自于[ wallhaven](https://wallhaven.cc/)。
-      attach with a small wallpaper pack.They come from [wallhaven](https://wallhaven.cc/).
-   
+   attach with a small wallpaper pack.They come from [wallhaven](https://wallhaven.cc/)。   
    2. 个人有需求的时候会加些新功能，现在鸽了。溜~
 
     
