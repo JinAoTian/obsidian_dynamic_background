@@ -17,7 +17,7 @@ Tag:obsidian、wallpaper、background、壁纸、背景
 
     This is a sinicized and extended version base on the existing plug-in. 
 
-    For more  detailed instructions and tips, please contact [original author]([GitHub - samuelsong70/obsidian-dynamic-background: Adding dynamic background effects to the Obsidian editor](https://github.com/samuelsong70/obsidian-dynamic-background)).
+    For more  detailed instructions and tips, please contact [original author](https://github.com/samuelsong70/obsidian-dynamic-background).
 
 ## 使用
 
@@ -31,9 +31,11 @@ Tag:obsidian、wallpaper、background、壁纸、背景
 3. 在选项中选择动效
 
 4. 在选项中填入壁纸文件或文件夹关于项目的相对路径
+   
    Fill with the vault relative path of  wallpaper file or folder 
    
-   > [!NOTE]
+   > 注意
+   > 
    > 目前不支持将.obsidian作为相对路径
    > 
    > .obsidian is not supported as a relative path
@@ -48,17 +50,20 @@ Tag:obsidian、wallpaper、background、壁纸、背景
    > 
    > make the wallpaper folder not included in the synchronization
 
-5. 如果填了文件夹，每次启动OB时，都会随机从中选一张作为壁纸。
+6. 如果填了文件夹，每次启动OB时，都会随机从中选一张作为壁纸。
+   
    If fill in the folder path, each time you start OB, it will randomly choose one from the folder as wallpaper.
 
-6. 按Ctrl+R 可以随机换一张壁纸（若有）
+8. 按Ctrl+R 可以随机换一张壁纸（若有）
+   
    Press Ctrl + R to randomly change a wallpaper (if any)
    (因为没有写判重逻辑，有可能随到一样的(qwq)
    
    ## 其他
    
    1. 附带了一个小壁纸包，它们来自于[ wallhaven](https://wallhaven.cc/)。
-   attach with a small wallpaper pack.They come from [wallhaven](https://wallhaven.cc/)。   
-   2. 个人有需求的时候会加些新功能，现在鸽了。溜~
+   
+      attach with a small wallpaper pack.They come from [wallhaven](https://wallhaven.cc/)。   
+   3. 个人有需求的时候会加些新功能，现在鸽了。溜~
 
     
