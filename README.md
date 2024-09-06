@@ -4,9 +4,7 @@ Tag:obsidian、wallpaper、background、壁纸、背景
 
 ## 展示
 
-![](C:\git\obsidian_dynamic_background\show.png)
-
-![](C:\git\obsidian_dynamic_background\show\2.png)
+![](.\show\1.png)![](.\show\2.png)
 
 ## 简述
 
@@ -60,9 +58,5 @@ Tag:obsidian、wallpaper、background、壁纸、背景
       attach with a small wallpaper pack.They come from [wallhaven](https://wallhaven.cc/).
    
    2. 个人有需求的时候会加些新功能，现在鸽了。溜~
-   
-   
-   
-   
 
     
