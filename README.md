@@ -15,7 +15,9 @@ Tag:obsidian、wallpaper、background、壁纸、背景
 
 2. 这是一个基于现有插件的汉化扩展版本，更详细的说明和打赏请找[原作者](https://github.com/samuelsong70/obsidian-dynamic-background)。
 
-    This is a sinicized and extended version base on the existing plug-in. For more     detailed instructions and tips, please contact [original author]([GitHub - samuelsong70/obsidian-dynamic-background: Adding dynamic background effects to the Obsidian editor](https://github.com/samuelsong70/obsidian-dynamic-background)).
+    This is a sinicized and extended version base on the existing plug-in. 
+
+    For more  detailed instructions and tips, please contact [original author]([GitHub - samuelsong70/obsidian-dynamic-background: Adding dynamic background effects to the Obsidian editor](https://github.com/samuelsong70/obsidian-dynamic-background)).
 
 ## 使用
 
